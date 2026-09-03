@@ -1,0 +1,16 @@
+{
+  "name": "TRIdata — Triathlon benchmarking",
+  "short_name": "TRIdata",
+  "description": "Swim. Bike. Run. Analyze. Improve. Benchmark your splits, tests and training load against real elite standards.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#16202C",
+  "theme_color": "#16202C",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
